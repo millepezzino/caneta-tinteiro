@@ -1,0 +1,50 @@
+== Changelog ==
+
+= Theme Name StartPoint =
+
+= Version: 1.2.8 =
+1. Popular social icon options added.
+2. Few links updated.
+
+= Version: 1.2.7 =
+1. Theme URI and footer links updated.
+
+= Version: 1.2.6 =
+1. Change Styling of posts.
+2. solved error on 404 page.
+
+= Version: 1.2.5 =
+1. Support Link Button Added In WordPress Customize.
+
+= Version 1.2.4 =
+1. Theme option to WordPress customizer API migration.
+
+= Version 1.2.3 =
+1. Theme check issue fixed.
+2. All text domain matched with theme directory.
+3. Language .pot file matched with text domain.
+4. Use add_theme_support( 'title-tag' ) with after_theme_setup hook and removed title tag from header.php.
+
+= Version 1.2.2 =
+1. Text wrapped issue fixed.
+
+= Version 1.2.1 =
+1. Removed front page.php, used home.php instead.
+2. Added Slide, Feature boxes, Contact form and Testimonials. 
+3. The <title> tags can only contain a call to wp_title(). Use the wp_title filter to modify the output issue fixed.
+4. Default footer widget added.
+5. Miner change in style.css.
+
+= Version 1.2 =
+1. Front page configured for reading setting changes.
+2. Analytic code option function removed because of unused.
+3. Default favicon link removed.
+4. Css error fixed.
+
+= Version 1.1 =
+1. Fixed - Escape the home url in header.php and every file
+2. Fixed - Remove the hard coded meta keywords from header.php
+3. Fixed - All functions prefixed with unique theme slug.
+
+= Version 1.0 =
+  StartPoint Theme is created on 01-03-2013.
